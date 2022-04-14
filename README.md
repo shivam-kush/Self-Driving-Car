@@ -1,6 +1,6 @@
 # Self-Driving-Car
 
-Made using HTML, CS, Javascript only. There are <strong>no libraries</strong> used in this project.
+Made using HTML, CSS and Javascript only. There are <strong>no libraries</strong> used in this project.
 Collision detection is done using Ray Tracing.
 (under construction)
 
